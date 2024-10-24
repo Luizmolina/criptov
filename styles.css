@@ -1,0 +1,36 @@
+body {
+    background-color: #000; /* Preto */
+    color: #fff; /* Texto branco */
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #ff0000; /* Vermelho para o título */
+    text-align: center;
+}
+
+input, button {
+    display: block;
+    margin: 10px auto;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+input {
+    width: 200px;
+}
+
+button {
+    background-color: #ff0000; /* Vermelho para botões */
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #cc0000; /* Tom mais escuro no hover */
+}
+
+p {
+    text-align: center;
+}
